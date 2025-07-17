@@ -8,8 +8,8 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 ## Stats 🔢🎲
 <div align="center">
   <div style="display: flex">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfaraujo&layout=compact&langs_count=10&hide_border=true&theme=omni&card_width=400" width="500px" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurfaraujo&theme=omni&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afraujo&layout=compact&langs_count=10&hide_border=true&theme=omni&card_width=400" width="500px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=afraujo&theme=omni&hide_border=true" />
   </div>
 </div>
 
@@ -26,8 +26,8 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 ## Contatos 📱☎️
 
 <div>
-  <a href="https://www.linkedin.com/in/arthurfaraujoo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-  <a href="https://www.instagram.com/arthurfaraujoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+  <a href="https://www.linkedin.com/in/afraujo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+  <a href="https://www.instagram.com/afraujo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
   <a href="mailto:arthurfelipe5567@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 </div>
 <br>
@@ -35,12 +35,12 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 ## Alguns projetos ⌨️👨‍💻
 <div align="center">
   <div style="display: flex">
-    <a href="https://github.com/arthurfaraujo/si-activities"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities&theme=omni&card_width=350&hide_border=true"></a>
-    <a href="https://github.com/arthurfaraujo/elections-py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=elections-py&theme=omni&card_width=350&hide_border=true"></a>
-    <a href="https://github.com/arthurfaraujo/si-activities-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities-api&theme=omni&card_width=350&hide_border=true"></a>
-    <a href="https://github.com/arthurfaraujo/crud-spring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=crud-spring&theme=omni&card_width=350&hide_border=true"></a>
-    <a href="https://github.com/arthurfaraujo/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=portfolio&theme=omni&card_width=350&hide_border=true"></a>
-    <a href="https://github.com/arthurfaraujo/rocket-spring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=rocket-spring&theme=omni&card_width=350&hide_border=true"></a>
+    <a href="https://github.com/afraujo/si-activities"><img src="https://github-readme-stats.vercel.app/api/pin/?username=afraujo&repo=si-activities&theme=omni&card_width=350&hide_border=true"></a>
+    <a href="https://github.com/afraujo/elections-py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=afraujo&repo=elections-py&theme=omni&card_width=350&hide_border=true"></a>
+    <a href="https://github.com/afraujo/si-activities-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=afraujo&repo=si-activities-api&theme=omni&card_width=350&hide_border=true"></a>
+    <a href="https://github.com/afraujo/crud-spring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=afraujo&repo=crud-spring&theme=omni&card_width=350&hide_border=true"></a>
+    <a href="https://github.com/afraujo/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=afraujo&repo=portfolio&theme=omni&card_width=350&hide_border=true"></a>
+    <a href="https://github.com/afraujo/rocket-spring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=afraujo&repo=rocket-spring&theme=omni&card_width=350&hide_border=true"></a>
   </div>
 </div>
 
